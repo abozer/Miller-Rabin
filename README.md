@@ -1,1 +1,1 @@
-Implementation of Miller-Rabin Primality Testing.
+Implementation of Miller-Rabin Primality Testing in C++.
